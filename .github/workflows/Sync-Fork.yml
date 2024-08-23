@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: terminussync/fork-sync@v2.0
+      - uses: terminussync/fork-sync
         with:
           owner: pppscn
           base: main
