@@ -58,6 +58,7 @@
     <string name="url_help">https://gitee.com/pp/SmsForwarder/wikis/pages</string>
     <string name="url_donation_link">https://gitee.com/pp/SmsForwarder.wiki/raw/master/%E6%89%93%E8%B5%8F%E5%90%8D%E5%8D%95.md</string>
     <string name="url_wechat_miniprogram">https://gitee.com/pp/SmsForwarder/raw/main/pic/wechat_miniprogram.jpg</string>
+    <string name="url_tips">https://gitee.com/pp/SmsForwarder.wiki/raw/master/tips_en.json</string>
 
     <string name="lab_yes">Yes</string>
     <string name="lab_no">No</string>
@@ -186,6 +187,13 @@
     <string name="switch_rule_status">Enable This Forwarding Rule</string>
     <string name="invalid_match_value">The matched value cannot be null</string>
     <string name="invalid_call_type">The call type is incorrect, you can only enter any number from 1 to 6.</string>
+    <string name="mon">MON</string>
+    <string name="tue">TUE</string>
+    <string name="wed">WED</string>
+    <string name="thu">THU</string>
+    <string name="fri">FRI</string>
+    <string name="sat">SAT</string>
+    <string name="sun">SUN</string>
     <!--SenderActivity-->
     <string name="delete_sender_title">Delete confirmation</string>
     <string name="delete_sender_tips">Are you sure to delete this sender?</string>
@@ -1143,4 +1151,5 @@
     <string name="bluetooth_not_supported">Bluetooth not supported.</string>
     <string name="start_discovery">Discovery</string>
     <string name="invalid_bluetooth_mac_address">Bluetooth Mac Address is invalid, eg. AA:BB:CC:DD:EE:FF</string>
+    <string name="auto_start_redmi"><![CDATA[RedMi: Authorization Management -> Self-Start Management -> Allow Apps to Self-Start]]></string>
 </resources>

@@ -85,6 +85,7 @@
     <string name="url_help">https://gitee.com/pp/SmsForwarder/wikis/pages</string>
     <string name="url_donation_link">https://gitee.com/pp/SmsForwarder.wiki/raw/master/%E6%89%93%E8%B5%8F%E5%90%8D%E5%8D%95.md</string>
     <string name="url_wechat_miniprogram">https://gitee.com/pp/SmsForwarder/raw/main/pic/wechat_miniprogram.jpg</string>
+    <string name="url_tips">https://gitee.com/pp/SmsForwarder.wiki/raw/master/tips.json</string>
 
     <string name="lab_yes">是</string>
     <string name="lab_no">否</string>
@@ -214,6 +215,13 @@
     <string name="switch_rule_status">启用该条转发规则</string>
     <string name="invalid_match_value">匹配的值不可为空</string>
     <string name="invalid_call_type">通话类型不正确，只能填写1到6的任意一个数字</string>
+    <string name="mon">周一</string>
+    <string name="tue">周二</string>
+    <string name="wed">周三</string>
+    <string name="thu">周四</string>
+    <string name="fri">周五</string>
+    <string name="sat">周六</string>
+    <string name="sun">周日</string>
     <!--SenderActivity-->
     <string name="delete_sender_title">发送通道操作确认</string>
     <string name="delete_sender_tips">删除发送通道后会级联删除其相关的转发规则、转发日志的所有记录！\n\n确定删除该条发送通道?</string>
@@ -1171,4 +1179,5 @@
     <string name="bluetooth_not_supported">不支持蓝牙设备</string>
     <string name="start_discovery">搜索设备</string>
     <string name="invalid_bluetooth_mac_address">蓝牙设备MAC地址无效，例如：AA:BB:CC:DD:EE:FF</string>
+    <string name="auto_start_redmi"><![CDATA[红米手机：授权管理 -> 自启动管理 -> 允许应用自启动]]></string>
 </resources>
